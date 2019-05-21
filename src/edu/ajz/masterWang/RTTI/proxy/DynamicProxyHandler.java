@@ -29,23 +29,24 @@ public class DynamicProxyHandler implements InvocationHandler {
                 println(" " + arg);
             }
         }
-        return method.invoke(proxied,args);
+        return method.invoke(proxied, args);
     }
 }
 
-class SimpleDynamicProxy{
+class SimpleDynamicProxy {
 
-    public static void consumer(InterFace interFace){
+    public static void consumer(InterFace interFace) {
         interFace.doSomething();
         interFace.somethingElse(" --somethingElse-- ");
     }
 
-    public static void main(String[] args){
+    public static void main(String[] args) {
         RealObject real = new RealObject();
         consumer(real);
         //insert a proxy and call again
         InterFace i = (InterFace) Proxy.newProxyInstance(InterFace.class.getClassLoader(),
                 new Class[]{InterFace.class}, new DynamicProxyHandler(real));
+        println("InterFace代理: " + i + "，类名: " + i.getClass());
         consumer(i);
 
     }
