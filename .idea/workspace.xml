@@ -2,14 +2,69 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e4c19282-3bbf-400d-8fbc-f4ddf571c814" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/edu/ajz/masterWang/RTTI/myProxy2/DynamicWorkProxy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/edu/ajz/masterWang/RTTI/myProxy2/IGo2Work.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/edu/ajz/masterWang/RTTI/myProxy2/StaticWorkProxy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/edu/ajz/masterWang/RTTI/myProxy2/TestProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_58.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/ajz/masterWang/otherTest/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/ajz/masterWang/utils/HttpUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaSE/edu/ajz/masterWang/RTTI/proxy/SimpleDynamicProxy.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaSE/edu/ajz/masterWang/RTTI/proxy/SimpleDynamicProxy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaSE.iml" beforeDir="false" afterPath="$PROJECT_DIR$/javaSE.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSE/edu/ajz/masterWang/ArrayTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSE/edu/ajz/masterWang/NumberTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSE/edu/ajz/masterWang/RTTI/ClassTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSE/edu/ajz/masterWang/RTTI/generics/Building.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSE/edu/ajz/masterWang/RTTI/generics/ClassCasts.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSE/edu/ajz/masterWang/RTTI/generics/House.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSE/edu/ajz/masterWang/RTTI/proxy/DynamicProxyHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSE/edu/ajz/masterWang/RTTI/proxy/InterFace.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSE/edu/ajz/masterWang/RTTI/proxy/RealObject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSE/edu/ajz/masterWang/RTTI/proxy/SimpleDynamicProxy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSE/edu/ajz/masterWang/RTTI/proxy/SimpleProxy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSE/edu/ajz/masterWang/RTTI/proxy/SimpleProxyDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSE/edu/ajz/masterWang/RTTI/reflect/ShowMethod.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSE/edu/ajz/masterWang/collections/IterableClass$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSE/edu/ajz/masterWang/collections/IterableClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSE/edu/ajz/masterWang/innerClass/InnerClassTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSE/edu/ajz/masterWang/innerClass/Outer$Inner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSE/edu/ajz/masterWang/innerClass/Outer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSE/edu/ajz/masterWang/modbus/ModbusTest$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSE/edu/ajz/masterWang/modbus/ModbusTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSE/edu/ajz/masterWang/strings/RegExp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSE/edu/ajz/masterWang/strings/ToStringTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSE/edu/ajz/masterWang/thread/Account.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSE/edu/ajz/masterWang/thread/DrawThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSE/edu/ajz/masterWang/utils/MasterUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSE/lib/RXTXcomm.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSE/中文包名/my_Java.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/ajz/masterWang/ArrayTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/ajz/masterWang/NumberTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/ajz/masterWang/RTTI/ClassTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/ajz/masterWang/RTTI/generics/ClassCasts.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/ajz/masterWang/RTTI/myProxy2/DynamicWorkProxy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/ajz/masterWang/RTTI/myProxy2/IGo2Work.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/ajz/masterWang/RTTI/myProxy2/StaticWorkProxy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/ajz/masterWang/RTTI/myProxy2/TestProxy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/ajz/masterWang/RTTI/proxy/DynamicProxyHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/ajz/masterWang/RTTI/proxy/InterFace.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/ajz/masterWang/RTTI/proxy/RealObject.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/ajz/masterWang/RTTI/proxy/SimpleProxy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/ajz/masterWang/RTTI/reflect/ShowMethod.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/ajz/masterWang/collections/IterableClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/ajz/masterWang/innerClass/InnerClassTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/ajz/masterWang/innerClass/Outer$Inner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/ajz/masterWang/innerClass/Outer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/ajz/masterWang/innerClass/Outer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/ajz/masterWang/modbus/ModbusTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/ajz/masterWang/strings/RegExp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/ajz/masterWang/strings/ToStringTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/ajz/masterWang/thread/Account.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/ajz/masterWang/thread/DrawThread.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/ajz/masterWang/utils/MasterUtil.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,30 +121,36 @@
     <session id="-1241522817">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.open.time.1" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.35" value="1" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="8" />
+          <entry key="java" value="13" />
+          <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="8" />
+          <entry key="JAVA" value="13" />
+          <entry key="XML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="6" />
-          <entry key="java" value="650" />
+          <entry key="java" value="1142" />
+          <entry key="xml" value="72" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="650" />
+          <entry key="JAVA" value="1142" />
           <entry key="PLAIN_TEXT" value="6" />
+          <entry key="XML" value="72" />
         </counts>
       </usages-collector>
     </session>
@@ -99,33 +160,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/edu/ajz/masterWang/RTTI/proxy/RealObject.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="275">
-              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-              <folding>
-                <element signature="e#407#408#0" expanded="true" />
-                <element signature="e#453#454#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="237">
+              <caret line="60" column="21" selection-start-line="60" selection-start-column="21" selection-end-line="60" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/edu/ajz/masterWang/RTTI/proxy/InterFace.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/edu/ajz/masterWang/utils/HttpUtil.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="325">
-              <caret line="13" column="35" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/edu/ajz/masterWang/RTTI/proxy/DynamicProxyHandler.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="316">
-              <caret line="48" column="61" selection-start-line="48" selection-start-column="61" selection-end-line="48" selection-end-column="61" />
+              <caret line="20" column="29" selection-start-line="20" selection-start-column="29" selection-end-line="20" selection-end-column="29" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -134,39 +182,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/edu/ajz/masterWang/RTTI/myProxy2/IGo2Work.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/edu/ajz/masterWang/otherTest/Test1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="416">
-              <caret line="28" column="21" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
-              <folding>
-                <element signature="e#298#299#0" expanded="true" />
-                <element signature="e#315#316#0" expanded="true" />
-                <element signature="e#479#480#0" expanded="true" />
-                <element signature="e#513#514#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/edu/ajz/masterWang/RTTI/myProxy2/StaticWorkProxy.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="671">
-              <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#430#431#0" expanded="true" />
-                <element signature="e#470#471#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/edu/ajz/masterWang/RTTI/myProxy2/TestProxy.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
+            <state relative-caret-position="700">
+              <caret line="36" column="27" selection-start-line="36" selection-start-column="27" selection-end-line="36" selection-end-column="27" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -175,23 +194,28 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/edu/ajz/masterWang/RTTI/myProxy2/DynamicWorkProxy.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/edu/ajz/masterWang/RTTI/reflect/ShowMethod.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="18" column="48" selection-start-line="18" selection-start-column="48" selection-end-line="18" selection-end-column="48" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#480#481#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="150">
+              <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/edu/ajz/masterWang/utils/MasterUtil.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/edu/ajz/masterWang/modbus/ModbusTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="9" column="23" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="23" />
+            <state relative-caret-position="50">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/edu/ajz/masterWang/utils/MasterUtil.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="325">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
             </state>
           </provider>
         </entry>
@@ -230,7 +254,12 @@
         <option value="$PROJECT_DIR$/src/edu/ajz/masterWang/RTTI/myProxy2/WorkProxy.java" />
         <option value="$PROJECT_DIR$/src/edu/ajz/masterWang/RTTI/myProxy2/StaticWorkProxy.java" />
         <option value="$PROJECT_DIR$/src/edu/ajz/masterWang/RTTI/myProxy2/DynamicWorkProxy.java" />
+        <option value="$PROJECT_DIR$/src/main/masterWang/RTTI/myProxy2/TestProxy.java" />
         <option value="$PROJECT_DIR$/src/edu/ajz/masterWang/RTTI/myProxy2/TestProxy.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/ajz/masterWang/utils/MasterUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/ajz/masterWang/utils/HttpUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/ajz/masterWang/otherTest/Test1.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
@@ -240,11 +269,39 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="My Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="My Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="My Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="145" />
-    <option name="y" value="91" />
-    <option name="width" value="1587" />
-    <option name="height" value="967" />
+    <option name="x" value="1974" />
+    <option name="y" value="-8" />
+    <option name="width" value="2514" />
+    <option name="height" value="1456" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -252,6 +309,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -268,71 +327,87 @@
               <item name="javaSE" type="b2602c69:ProjectViewProjectNode" />
               <item name="javaSE" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="masterWang" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javaSE" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javaSE" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="masterWang" type="462c0819:PsiDirectoryNode" />
-              <item name="RTTI" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javaSE" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javaSE" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="masterWang" type="462c0819:PsiDirectoryNode" />
-              <item name="RTTI" type="462c0819:PsiDirectoryNode" />
-              <item name="myProxy2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javaSE" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javaSE" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="masterWang" type="462c0819:PsiDirectoryNode" />
-              <item name="RTTI" type="462c0819:PsiDirectoryNode" />
-              <item name="myProxy2" type="462c0819:PsiDirectoryNode" />
-              <item name="IGo2Work.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-            <path>
-              <item name="javaSE" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javaSE" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="masterWang" type="462c0819:PsiDirectoryNode" />
-              <item name="utils" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javaSE" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javaSE" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="lib" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="javaSE" type="b2602c69:ProjectViewProjectNode" />
               <item name="javaSE" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="中文包名" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="RXTXcomm.jar" type="ab9368bb:PsiFileNode" />
+            </path>
+            <path>
+              <item name="javaSE" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javaSE" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="RXTXcomm.jar" type="ab9368bb:PsiFileNode" />
+              <item name="io" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javaSE" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javaSE" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javaSE" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javaSE" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javaSE" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javaSE" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="masterWang" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javaSE" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javaSE" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="masterWang" type="462c0819:PsiDirectoryNode" />
+              <item name="otherTest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javaSE" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javaSE" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javaSE" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javaSE" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558486142828" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560412079065" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/lib" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\workspace\idea\test\javaSE\src" />
+      <recent name="E:\workspace\idea\test\javaSE" />
+      <recent name="E:\WorkSpace\Git\Study\JAVA_SE\javaSE\src\lib" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\WorkSpace\Git\Study\JAVA_SE\javaSE\src" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\WorkSpace\Git\Study\JAVA_SE\javaSE\src\lib" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -347,26 +422,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TestProxy">
-    <configuration name="ShowMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edu.ajz.masterWang.RTTI.reflect.ShowMethod" />
-      <module name="javaSE" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="edu.ajz.masterWang.RTTI.reflect.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Test1">
     <configuration name="SimpleDynamicProxy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edu.ajz.masterWang.RTTI.proxy.SimpleDynamicProxy" />
+      <option name="MAIN_CLASS_NAME" value="main.masterWang.RTTI.proxy.SimpleDynamicProxy" />
       <module name="javaSE" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="edu.ajz.masterWang.RTTI.proxy.*" />
+          <option name="PATTERN" value="main.masterWang.RTTI.proxy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -375,11 +437,24 @@
       </method>
     </configuration>
     <configuration name="SimpleProxyDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edu.ajz.masterWang.RTTI.proxy.SimpleProxyDemo" />
+      <option name="MAIN_CLASS_NAME" value="main.masterWang.RTTI.proxy.SimpleProxyDemo" />
       <module name="javaSE" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="edu.ajz.masterWang.RTTI.proxy.*" />
+          <option name="PATTERN" value="main.masterWang.RTTI.proxy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.ajz.masterWang.otherTest.Test1" />
+      <module name="javaSE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.ajz.masterWang.otherTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -388,11 +463,11 @@
       </method>
     </configuration>
     <configuration name="TestProxy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edu.ajz.masterWang.RTTI.myProxy2.TestProxy" />
+      <option name="MAIN_CLASS_NAME" value="main.masterWang.RTTI.myProxy2.TestProxy" />
       <module name="javaSE" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="edu.ajz.masterWang.RTTI.myProxy2.*" />
+          <option name="PATTERN" value="main.masterWang.RTTI.myProxy2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -414,19 +489,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ShowMethod" />
       <item itemvalue="Application.my_Java" />
       <item itemvalue="Application.SimpleProxyDemo" />
       <item itemvalue="Application.SimpleDynamicProxy" />
       <item itemvalue="Application.TestProxy" />
+      <item itemvalue="Application.Test1" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test1" />
         <item itemvalue="Application.TestProxy" />
         <item itemvalue="Application.SimpleDynamicProxy" />
         <item itemvalue="Application.SimpleProxyDemo" />
         <item itemvalue="Application.my_Java" />
-        <item itemvalue="Application.ShowMethod" />
       </list>
     </recent_temporary>
   </component>
@@ -461,7 +536,9 @@
       <workItem from="1557662248796" duration="2390000" />
       <workItem from="1558234343948" duration="7035000" />
       <workItem from="1558357154014" duration="1631000" />
-      <workItem from="1558431725626" duration="5211000" />
+      <workItem from="1558431725626" duration="5749000" />
+      <workItem from="1560404587997" duration="7434000" />
+      <workItem from="1560412528882" duration="398000" />
     </task>
     <task id="LOCAL-00001" summary="内部类的创建">
       <created>1558358170364</created>
@@ -477,35 +554,44 @@
       <option name="project" value="LOCAL" />
       <updated>1558436104922</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="内部类的创建">
+      <created>1558486153714</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1558486153714</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26452000" />
+    <option name="totallyTimeSpent" value="34822000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="1974" y="-8" width="2514" height="1456" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16950959" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13162184" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32899022" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32247558" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.3854506" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.40651023" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.38531417" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.329296" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.26818675" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32899022" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32853898" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -514,7 +600,7 @@
       <window_info anchor="right" id="Database" order="5" />
       <window_info anchor="right" id="Theme Preview" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Maven Projects" order="8" />
+      <window_info anchor="right" id="Maven Projects" order="8" visible="true" weight="0.20497148" />
       <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.32995737" />
     </layout>
   </component>
@@ -532,37 +618,13 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="jar://D:/ProgramFile/work/java/JDK/jdk8/src.zip!/java/lang/reflect/Field.java" />
-    <entry file="file://$PROJECT_DIR$/src/edu/ajz/masterWang/ArrayTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/edu/ajz/masterWang/thread/Account.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1215">
-          <caret line="55" column="20" selection-start-line="55" selection-start-column="20" selection-end-line="55" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/edu/ajz/masterWang/thread/DrawThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="702">
-          <caret line="26" column="36" selection-start-line="26" selection-start-column="36" selection-end-line="26" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/ajz/masterWang/ArrayTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/edu/ajz/masterWang/thread/Account.java" />
+    <entry file="file://$PROJECT_DIR$/src/edu/ajz/masterWang/thread/DrawThread.java" />
     <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/edu/ajz/masterWang/NumberTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/ajz/masterWang/NumberTest.java" />
     <entry file="jar://$PROJECT_DIR$/src/lib/RXTXcomm.jar!/gnu/io/RXTXVersion.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
@@ -629,106 +691,25 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/edu/ajz/masterWang/modbus/ModbusTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2376">
-          <caret line="110" selection-start-line="110" selection-end-line="110" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/out/production/javaSE/edu/ajz/masterWang/innerClass/Outer.class">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/edu/ajz/masterWang/innerClass/Outer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="11" column="22" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/ajz/masterWang/modbus/ModbusTest.java" />
+    <entry file="file://$PROJECT_DIR$/out/production/javaSE/edu/ajz/masterWang/innerClass/Outer.class" />
+    <entry file="file://$PROJECT_DIR$/src/edu/ajz/masterWang/innerClass/Outer.java" />
     <entry file="jar://D:/ProgramFile/work/java/JDK/jdk8/src.zip!/java/lang/Iterable.java" />
-    <entry file="file://$PROJECT_DIR$/src/edu/ajz/masterWang/innerClass/InnerClassTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/ajz/masterWang/innerClass/InnerClassTest.java" />
     <entry file="jar://D:/ProgramFile/work/java/JDK/jdk8/src.zip!/java/util/Map.java" />
-    <entry file="file://$PROJECT_DIR$/src/edu/ajz/masterWang/collections/IterableClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="891">
-          <caret line="40" column="29" selection-start-line="40" selection-start-column="29" selection-end-line="40" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/edu/ajz/masterWang/strings/RegExp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="20" column="68" selection-start-line="20" selection-start-column="68" selection-end-line="20" selection-end-column="68" />
-          <folding>
-            <element signature="e#217#218#0" expanded="true" />
-            <element signature="e#240#241#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/edu/ajz/masterWang/RTTI/ClassTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="16" column="48" selection-start-line="16" selection-start-column="48" selection-end-line="16" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/edu/ajz/masterWang/RTTI/generics/ClassCasts.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="358">
-          <caret line="23" column="38" selection-start-line="23" selection-start-column="38" selection-end-line="23" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/edu/ajz/masterWang/RTTI/reflect/ShowMethod.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="407">
-          <caret line="44" column="91" selection-start-line="44" selection-start-column="91" selection-end-line="44" selection-end-column="91" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/ajz/masterWang/collections/IterableClass.java" />
+    <entry file="file://$PROJECT_DIR$/src/edu/ajz/masterWang/strings/RegExp.java" />
+    <entry file="file://$PROJECT_DIR$/src/edu/ajz/masterWang/RTTI/ClassTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/edu/ajz/masterWang/RTTI/generics/ClassCasts.java" />
+    <entry file="file://$PROJECT_DIR$/src/edu/ajz/masterWang/RTTI/reflect/ShowMethod.java" />
     <entry file="file://$PROJECT_DIR$/src/中文包名/my_Java.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
           <caret line="4" column="20" lean-forward="true" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
-          <folding>
-            <element signature="e#209#210#0" expanded="true" />
-            <element signature="e#231#232#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/edu/ajz/masterWang/strings/ToStringTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="27" column="59" selection-start-line="27" selection-start-column="59" selection-end-line="27" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/edu/ajz/masterWang/RTTI/proxy/RealObject.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-          <folding>
-            <element signature="e#407#408#0" expanded="true" />
-            <element signature="e#453#454#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/ajz/masterWang/strings/ToStringTest.java" />
     <entry file="jar://D:/PGFile/JAVA/JDK/jdk8/src.zip!/java/lang/Class.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-626">
@@ -743,89 +724,140 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/edu/ajz/masterWang/RTTI/generics/myProxy.java">
+    <entry file="file://$PROJECT_DIR$/src/edu/ajz/masterWang/RTTI/generics/myProxy.java" />
+    <entry file="file://$PROJECT_DIR$/src/edu/ajz/masterWang/RTTI/proxy/SimpleProxy.java" />
+    <entry file="file://$PROJECT_DIR$/src/edu/ajz/masterWang/RTTI/proxy/RealObject.java" />
+    <entry file="file://$PROJECT_DIR$/src/edu/ajz/masterWang/RTTI/proxy/InterFace.java" />
+    <entry file="file://$PROJECT_DIR$/src/edu/ajz/masterWang/RTTI/proxy/DynamicProxyHandler.java" />
+    <entry file="file://$PROJECT_DIR$/src/edu/ajz/masterWang/RTTI/myProxy2/IGo2Work.java" />
+    <entry file="file://$PROJECT_DIR$/src/edu/ajz/masterWang/RTTI/myProxy2/StaticWorkProxy.java" />
+    <entry file="file://$PROJECT_DIR$/src/edu/ajz/masterWang/RTTI/myProxy2/DynamicWorkProxy.java" />
+    <entry file="file://$PROJECT_DIR$/src/edu/ajz/masterWang/utils/MasterUtil.java" />
+    <entry file="file://$PROJECT_DIR$/src/edu/ajz/masterWang/RTTI/myProxy2/TestProxy.java" />
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+        <state relative-caret-position="237">
+          <caret line="60" column="21" selection-start-line="60" selection-start-column="21" selection-end-line="60" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/edu/ajz/masterWang/RTTI/proxy/DynamicProxyHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="316">
-          <caret line="48" column="61" selection-start-line="48" selection-start-column="61" selection-end-line="48" selection-end-column="61" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/edu/ajz/masterWang/utils/MasterUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="9" column="23" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/edu/ajz/masterWang/RTTI/myProxy2/IGo2Work.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="416">
-          <caret line="28" column="21" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
-          <folding>
-            <element signature="e#298#299#0" expanded="true" />
-            <element signature="e#315#316#0" expanded="true" />
-            <element signature="e#479#480#0" expanded="true" />
-            <element signature="e#513#514#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/edu/ajz/masterWang/RTTI/proxy/SimpleProxy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-53">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/edu/ajz/masterWang/RTTI/proxy/InterFace.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/ajz/masterWang/utils/HttpUtil.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="325">
-          <caret line="13" column="35" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/edu/ajz/masterWang/RTTI/myProxy2/StaticWorkProxy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="671">
-          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#430#431#0" expanded="true" />
-            <element signature="e#470#471#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/edu/ajz/masterWang/RTTI/myProxy2/DynamicWorkProxy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="18" column="48" selection-start-line="18" selection-start-column="48" selection-end-line="18" selection-end-column="48" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#480#481#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/edu/ajz/masterWang/RTTI/myProxy2/TestProxy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
+          <caret line="20" column="29" selection-start-line="20" selection-start-column="29" selection-end-line="20" selection-end-column="29" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/ajz/masterWang/otherTest/Test1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="700">
+          <caret line="36" column="27" selection-start-line="36" selection-start-column="27" selection-end-line="36" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/ajz/masterWang/RTTI/reflect/ShowMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/ajz/masterWang/modbus/ModbusTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/ajz/masterWang/utils/MasterUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>javaSE:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>javaSE</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: junit:junit:3.8.1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
