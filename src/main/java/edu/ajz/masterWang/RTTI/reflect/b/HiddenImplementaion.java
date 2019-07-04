@@ -6,7 +6,6 @@ import edu.ajz.masterWang.RTTI.reflect.a.GetClassA;
 import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Method;
 
-import static edu.ajz.masterWang.utils.MasterUtil.println;
 
 /**
  * @ClassName HiddenImplementaion

@@ -1,5 +1,6 @@
 package edu.ajz.masterWang.RTTI.reflect.a;
 
+
 import static edu.ajz.masterWang.utils.MasterUtil.println;
 
 /**
