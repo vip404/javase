@@ -40,7 +40,6 @@ public class Test1 {
                 new Thread(new Runnable() {
                     @Override
                     public void run() {
-
                         JSONObject jsonObject = HttpUtil.post(url,jsonReq);
                         logger.info(j + "---------" + jsonObject.toString());
                     }

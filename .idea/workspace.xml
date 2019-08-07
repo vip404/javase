@@ -1,9 +1,86 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="e4c19282-3bbf-400d-8fbc-f4ddf571c814" name="Default Changelist" comment="添加redis缓存实例">
       <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+=======
+    <list default="true" id="e4c19282-3bbf-400d-8fbc-f4ddf571c814" name="Default Changelist" comment="添加maven">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/ajz/masterWang/ArrayTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/ajz/masterWang/NumberTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/ajz/masterWang/RTTI/ClassTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/ajz/masterWang/RTTI/generics/ClassCasts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/ajz/masterWang/RTTI/myProxy2/DynamicWorkProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/ajz/masterWang/RTTI/myProxy2/IGo2Work.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/ajz/masterWang/RTTI/myProxy2/StaticWorkProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/ajz/masterWang/RTTI/myProxy2/TestProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/ajz/masterWang/RTTI/proxy/DynamicProxyHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/ajz/masterWang/RTTI/proxy/InterFace.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/ajz/masterWang/RTTI/proxy/RealObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/ajz/masterWang/RTTI/proxy/SimpleProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/ajz/masterWang/RTTI/reflect/ShowMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/ajz/masterWang/collections/IterableClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/ajz/masterWang/innerClass/InnerClassTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/ajz/masterWang/innerClass/Outer$Inner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/ajz/masterWang/innerClass/Outer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/ajz/masterWang/innerClass/Outer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/ajz/masterWang/modbus/ModbusTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/ajz/masterWang/strings/RegExp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/ajz/masterWang/strings/ToStringTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/ajz/masterWang/thread/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/ajz/masterWang/thread/DrawThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/ajz/masterWang/utils/MasterUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/edu/ajz/masterWang/RTTI/myProxy2/DynamicWorkProxy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/edu/ajz/masterWang/RTTI/myProxy2/Go2WorkByBike.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/edu/ajz/masterWang/RTTI/myProxy2/Go2WorkByBus.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/edu/ajz/masterWang/RTTI/myProxy2/IGo2Work.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/edu/ajz/masterWang/RTTI/myProxy2/StaticWorkProxy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/edu/ajz/masterWang/RTTI/myProxy2/TestProxy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/edu/ajz/masterWang/otherTest/Test1$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/edu/ajz/masterWang/otherTest/Test1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/edu/ajz/masterWang/tcp_ip/PLC_TCP_Thread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/edu/ajz/masterWang/tcp_ip/TCP_Test$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/edu/ajz/masterWang/tcp_ip/TCP_Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/edu/ajz/masterWang/thread/Block.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/edu/ajz/masterWang/utils/HttpUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/edu/ajz/masterWang/websocket/SocketClient$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/edu/ajz/masterWang/websocket/SocketClient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_58.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_58.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaSE.iml" beforeDir="false" afterPath="$PROJECT_DIR$/javaSE.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSE/edu/ajz/masterWang/ArrayTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/ajz/masterWang/ArrayTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSE/edu/ajz/masterWang/NumberTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/ajz/masterWang/NumberTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSE/edu/ajz/masterWang/RTTI/ClassTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/ajz/masterWang/RTTI/ClassTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSE/edu/ajz/masterWang/RTTI/generics/Building.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/ajz/masterWang/RTTI/generics/Building.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSE/edu/ajz/masterWang/RTTI/generics/ClassCasts.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/ajz/masterWang/RTTI/generics/ClassCasts.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSE/edu/ajz/masterWang/RTTI/generics/House.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/ajz/masterWang/RTTI/generics/House.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSE/edu/ajz/masterWang/RTTI/proxy/DynamicProxyHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/ajz/masterWang/RTTI/proxy/DynamicProxyHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSE/edu/ajz/masterWang/RTTI/proxy/InterFace.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/ajz/masterWang/RTTI/proxy/InterFace.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSE/edu/ajz/masterWang/RTTI/proxy/RealObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/ajz/masterWang/RTTI/proxy/RealObject.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSE/edu/ajz/masterWang/RTTI/proxy/SimpleDynamicProxy.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/ajz/masterWang/RTTI/proxy/SimpleDynamicProxy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSE/edu/ajz/masterWang/RTTI/proxy/SimpleProxy.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/ajz/masterWang/RTTI/proxy/SimpleProxy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSE/edu/ajz/masterWang/RTTI/proxy/SimpleProxyDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/ajz/masterWang/RTTI/proxy/SimpleProxyDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSE/edu/ajz/masterWang/RTTI/reflect/ShowMethod.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/ajz/masterWang/RTTI/reflect/ShowMethod.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSE/edu/ajz/masterWang/collections/IterableClass$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/ajz/masterWang/collections/IterableClass$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSE/edu/ajz/masterWang/collections/IterableClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/ajz/masterWang/collections/IterableClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSE/edu/ajz/masterWang/innerClass/InnerClassTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/ajz/masterWang/innerClass/InnerClassTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSE/edu/ajz/masterWang/innerClass/Outer$Inner.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/ajz/masterWang/innerClass/Outer$Inner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSE/edu/ajz/masterWang/innerClass/Outer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/ajz/masterWang/innerClass/Outer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSE/edu/ajz/masterWang/modbus/ModbusTest$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/ajz/masterWang/modbus/ModbusTest$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSE/edu/ajz/masterWang/modbus/ModbusTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/ajz/masterWang/modbus/ModbusTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSE/edu/ajz/masterWang/strings/RegExp.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/ajz/masterWang/strings/RegExp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSE/edu/ajz/masterWang/strings/ToStringTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/ajz/masterWang/strings/ToStringTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSE/edu/ajz/masterWang/thread/Account.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/ajz/masterWang/thread/Account.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSE/edu/ajz/masterWang/thread/DrawThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/ajz/masterWang/thread/DrawThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSE/edu/ajz/masterWang/utils/MasterUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/ajz/masterWang/utils/MasterUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSE/lib/RXTXcomm.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSE/中文包名/my_Java.class" beforeDir="false" />
+>>>>>>> acaf448dcdd2551e3c6b0c08951f04a749e26b35
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -74,36 +151,43 @@
     <session id="-1241522817">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
-          <entry key="project.open.time.1" value="2" />
+          <entry key="project.closed" value="6" />
+          <entry key="project.open.time.1" value="3" />
+          <entry key="project.open.time.19" value="1" />
+          <entry key="project.open.time.2" value="3" />
+          <entry key="project.open.time.23" value="1" />
           <entry key="project.open.time.35" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.opened" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="13" />
-          <entry key="xml" value="1" />
+          <entry key="gitignore" value="1" />
+          <entry key="java" value="34" />
+          <entry key="xml" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="13" />
-          <entry key="XML" value="1" />
+          <entry key="JAVA" value="34" />
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="XML" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="6" />
-          <entry key="java" value="1142" />
-          <entry key="xml" value="72" />
+          <entry key="gitignore" value="47" />
+          <entry key="java" value="2897" />
+          <entry key="txt" value="17" />
+          <entry key="xml" value="79" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1142" />
-          <entry key="PLAIN_TEXT" value="6" />
-          <entry key="XML" value="72" />
+          <entry key="JAVA" value="2897" />
+          <entry key="PLAIN_TEXT" value="70" />
+          <entry key="XML" value="79" />
         </counts>
       </usages-collector>
     </session>
@@ -114,19 +198,33 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/src/main/java/edu/ajz/masterWang/RTTI/reflect/a/GetClassA.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="189">
               <caret line="7" column="20" selection-end-line="44" selection-end-column="1" />
+=======
+        <entry file="file://$PROJECT_DIR$/src/main/java/edu/ajz/masterWang/RTTI/reflect/ShowMethod.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+>>>>>>> acaf448dcdd2551e3c6b0c08951f04a749e26b35
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/src/main/java/edu/ajz/masterWang/generics/LinkedStack.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="548">
               <caret line="55" selection-start-line="55" selection-end-line="55" />
+=======
+        <entry file="file://$PROJECT_DIR$/src/main/java/edu/ajz/masterWang/modbus/ModbusTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="27" selection-start-line="27" selection-end-line="27" />
+>>>>>>> acaf448dcdd2551e3c6b0c08951f04a749e26b35
               <folding>
                 <element signature="e#467#468#0" expanded="true" />
                 <element signature="e#526#527#0" expanded="true" />
@@ -137,13 +235,50 @@
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
+<<<<<<< HEAD
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="621">
               <caret line="65" column="17" selection-start-line="65" selection-start-column="17" selection-end-line="65" selection-end-column="17" />
+=======
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="742">
+              <caret line="62" selection-start-line="62" selection-end-line="62" />
             </state>
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/edu/ajz/masterWang/websocket/WsManager.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="25">
+              <caret line="61" selection-end-line="147" />
+              <folding>
+                <element signature="e#0#3788#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/edu/ajz/masterWang/websocket/SocketClient.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="127">
+              <caret line="98" column="91" selection-start-line="98" selection-start-column="66" selection-end-line="98" selection-end-column="91" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#820#821#0" expanded="true" />
+                <element signature="e#852#853#0" expanded="true" />
+                <element signature="e#1173#1174#0" expanded="true" />
+                <element signature="e#1238#1239#0" expanded="true" />
+                <element signature="e#2377#2378#0" expanded="true" />
+                <element signature="e#2413#2414#0" expanded="true" />
+              </folding>
+>>>>>>> acaf448dcdd2551e3c6b0c08951f04a749e26b35
+            </state>
+          </provider>
+        </entry>
+      </file>
+<<<<<<< HEAD
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/edu/ajz/masterWang/thirdParty/RedisTest.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -154,24 +289,55 @@
                 <element signature="e#642#643#0" expanded="true" />
                 <element signature="e#682#683#0" expanded="true" />
               </folding>
+=======
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="125">
+              <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+>>>>>>> acaf448dcdd2551e3c6b0c08951f04a749e26b35
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="27">
               <caret line="1" column="7" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
+=======
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://D:/PGFile/JAVA/JDK/jdk8/src.zip!/java/net/InetSocketAddress.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="117">
+              <caret line="214" column="17" selection-start-line="214" selection-start-column="17" selection-end-line="214" selection-end-column="17" />
+>>>>>>> acaf448dcdd2551e3c6b0c08951f04a749e26b35
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
         <entry file="jar://$MAVEN_REPOSITORY$/redis/clients/jedis/3.1.0/jedis-3.1.0.jar!/redis/clients/jedis/params/SetParams.class">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="162">
               <caret line="29" column="43" selection-start-line="29" selection-start-column="43" selection-end-line="29" selection-end-column="49" />
+=======
+        <entry file="jar://D:/PGFile/JAVA/JDK/jdk8/src.zip!/java/util/concurrent/LinkedBlockingQueue.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4025">
+              <caret line="248" column="11" selection-start-line="248" selection-start-column="11" selection-end-line="248" selection-end-column="11" />
+              <folding>
+                <element signature="e#7388#7389#0" expanded="true" />
+                <element signature="e#7427#7428#0" expanded="true" />
+              </folding>
+>>>>>>> acaf448dcdd2551e3c6b0c08951f04a749e26b35
             </state>
           </provider>
         </entry>
@@ -184,6 +350,13 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Socket</find>
+      <find>read</find>
+      <find>Log.i</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -212,6 +385,7 @@
         <option value="$PROJECT_DIR$/src/edu/ajz/masterWang/RTTI/myProxy2/DynamicWorkProxy.java" />
         <option value="$PROJECT_DIR$/src/main/masterWang/RTTI/myProxy2/TestProxy.java" />
         <option value="$PROJECT_DIR$/src/edu/ajz/masterWang/RTTI/myProxy2/TestProxy.java" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/src/main/java/edu/ajz/masterWang/utils/HttpUtil.java" />
         <option value="$PROJECT_DIR$/src/main/java/edu/ajz/masterWang/otherTest/Test1.java" />
         <option value="$PROJECT_DIR$/src/main/java/edu/ajz/masterWang/RTTI/reflect/b/HiddenImplementaion.java" />
@@ -221,6 +395,18 @@
         <option value="$PROJECT_DIR$/src/main/java/edu/ajz/masterWang/generics/LinkedStack.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/edu/ajz/masterWang/thirdParty/RedisTest.java" />
+=======
+        <option value="$PROJECT_DIR$/src/main/java/edu/ajz/masterWang/utils/MasterUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/ajz/masterWang/otherTest/Test1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/ajz/masterWang/utils/HttpUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/ajz/masterWang/thread/Block.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/ajz/masterWang/tcp_ip/TCP_Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/ajz/masterWang/tcp_ip/PLC_TCP_Thread.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/ajz/masterWang/websocket/wsManage.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/ajz/masterWang/websocket/WsManager.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/ajz/masterWang/websocket/SocketClient.java" />
+>>>>>>> acaf448dcdd2551e3c6b0c08951f04a749e26b35
         <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
@@ -234,8 +420,13 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
+<<<<<<< HEAD
         <option name="mavenHome" value="D:/ProgramFile/work/common/apache-maven-3.6.1" />
         <option name="userSettingsFile" value="D:\ProgramFile\work\common\apache-maven-3.6.1\conf\settings.xml" />
+=======
+        <option name="mavenHome" value="D:/PGFile/JAVA/Maven/apache-maven-3.6.0" />
+        <option name="userSettingsFile" value="D:\PGFile\JAVA\Maven\apache-maven-3.6.0\conf\settings.xml" />
+>>>>>>> acaf448dcdd2551e3c6b0c08951f04a749e26b35
       </MavenGeneralSettings>
     </option>
     <option name="importingSettings">
@@ -265,11 +456,19 @@
       <select />
     </treeState>
   </component>
+<<<<<<< HEAD
   <component name="ProjectFrameBounds">
     <option name="x" value="264" />
     <option name="y" value="142" />
     <option name="width" value="1377" />
     <option name="height" value="838" />
+=======
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+>>>>>>> acaf448dcdd2551e3c6b0c08951f04a749e26b35
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -289,12 +488,19 @@
             <path>
               <item name="javaSE" type="b2602c69:ProjectViewProjectNode" />
               <item name="javaSE" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javaSE" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javaSE" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="javaSE" type="b2602c69:ProjectViewProjectNode" />
               <item name="javaSE" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+<<<<<<< HEAD
+=======
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -316,6 +522,50 @@
               <item name="javaSE" type="b2602c69:ProjectViewProjectNode" />
               <item name="javaSE" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+>>>>>>> acaf448dcdd2551e3c6b0c08951f04a749e26b35
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="masterWang" type="462c0819:PsiDirectoryNode" />
+              <item name="collections" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javaSE" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javaSE" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="masterWang" type="462c0819:PsiDirectoryNode" />
+              <item name="modbus" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javaSE" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javaSE" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="masterWang" type="462c0819:PsiDirectoryNode" />
+              <item name="tcp_ip" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javaSE" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javaSE" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="masterWang" type="462c0819:PsiDirectoryNode" />
+<<<<<<< HEAD
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
+=======
+              <item name="thread" type="462c0819:PsiDirectoryNode" />
+>>>>>>> acaf448dcdd2551e3c6b0c08951f04a749e26b35
+            </path>
+            <path>
+              <item name="javaSE" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javaSE" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+<<<<<<< HEAD
+              <item name="中文包名" type="462c0819:PsiDirectoryNode" />
+=======
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="masterWang" type="462c0819:PsiDirectoryNode" />
@@ -325,7 +575,21 @@
               <item name="javaSE" type="b2602c69:ProjectViewProjectNode" />
               <item name="javaSE" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="中文包名" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="masterWang" type="462c0819:PsiDirectoryNode" />
+              <item name="websocket" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javaSE" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javaSE" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javaSE" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+>>>>>>> acaf448dcdd2551e3c6b0c08951f04a749e26b35
             </path>
           </expand>
           <select />
@@ -336,7 +600,11 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+<<<<<<< HEAD
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1565179774746" />
+=======
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562577543146" />
+>>>>>>> acaf448dcdd2551e3c6b0c08951f04a749e26b35
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -345,13 +613,21 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+<<<<<<< HEAD
       <recent name="E:\WorkSpace\Git\Study\JAVA_SE\javaSE\src\main\java\edu\ajz\masterWang" />
       <recent name="E:\WorkSpace\Git\Study\JAVA_SE\javaSE\src\main\java" />
       <recent name="E:\WorkSpace\Git\Study\JAVA_SE\javaSE\src" />
     </key>
+=======
+      <recent name="E:\WorkSpace\Git\Study\JAVA_SE\javaSE\src" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="edu.ajz.masterWang.websocket" />
+    </key>
+>>>>>>> acaf448dcdd2551e3c6b0c08951f04a749e26b35
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\workspace\idea\test\javaSE\src" />
       <recent name="E:\workspace\idea\test\javaSE" />
+      <recent name="E:\workspace\idea\test\javaSE\src" />
       <recent name="E:\WorkSpace\Git\Study\JAVA_SE\javaSE\src\lib" />
     </key>
   </component>
@@ -367,6 +643,7 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="RunManager" selected="Application.RedisTest">
     <configuration name="LinkedStack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="edu.ajz.masterWang.generics.LinkedStack" />
@@ -374,6 +651,15 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="edu.ajz.masterWang.generics.*" />
+=======
+  <component name="RunManager" selected="Application.SocketClient">
+    <configuration name="Block" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.ajz.masterWang.thread.Block" />
+      <module name="javaSE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.ajz.masterWang.thread.*" />
+>>>>>>> acaf448dcdd2551e3c6b0c08951f04a749e26b35
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -381,25 +667,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
     <configuration name="RedisTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="edu.ajz.masterWang.thirdParty.RedisTest" />
       <module name="javaSE" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="edu.ajz.masterWang.thirdParty.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edu.ajz.masterWang.otherTest.Test1" />
+=======
+    <configuration name="SocketClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.ajz.masterWang.websocket.SocketClient" />
       <module name="javaSE" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="edu.ajz.masterWang.otherTest.*" />
+          <option name="PATTERN" value="edu.ajz.masterWang.websocket.*" />
+>>>>>>> acaf448dcdd2551e3c6b0c08951f04a749e26b35
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -407,12 +689,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TCP_Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.ajz.masterWang.tcp_ip.TCP_Test" />
+      <module name="javaSE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.ajz.masterWang.tcp_ip.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+<<<<<<< HEAD
     <configuration name="TestFreeMemory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="edu.ajz.masterWang.nio.TestFreeMemory" />
       <module name="javaSE" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="edu.ajz.masterWang.nio.*" />
+=======
+    <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.ajz.masterWang.otherTest.Test1" />
+      <module name="javaSE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.ajz.masterWang.otherTest.*" />
+>>>>>>> acaf448dcdd2551e3c6b0c08951f04a749e26b35
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -420,12 +724,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
     <configuration name="TestProxy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="main.masterWang.RTTI.myProxy2.TestProxy" />
       <module name="javaSE" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="main.masterWang.RTTI.myProxy2.*" />
+=======
+    <configuration name="WsManager" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.ajz.masterWang.websocket.WsManager" />
+      <module name="javaSE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.ajz.masterWang.websocket.*" />
+>>>>>>> acaf448dcdd2551e3c6b0c08951f04a749e26b35
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -434,6 +747,7 @@
       </method>
     </configuration>
     <list>
+<<<<<<< HEAD
       <item itemvalue="Application.TestProxy" />
       <item itemvalue="Application.Test1" />
       <item itemvalue="Application.TestFreeMemory" />
@@ -447,6 +761,21 @@
         <item itemvalue="Application.TestFreeMemory" />
         <item itemvalue="Application.Test1" />
         <item itemvalue="Application.TestProxy" />
+=======
+      <item itemvalue="Application.Test1" />
+      <item itemvalue="Application.Block" />
+      <item itemvalue="Application.TCP_Test" />
+      <item itemvalue="Application.SocketClient" />
+      <item itemvalue="Application.WsManager" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SocketClient" />
+        <item itemvalue="Application.WsManager" />
+        <item itemvalue="Application.TCP_Test" />
+        <item itemvalue="Application.Block" />
+        <item itemvalue="Application.Test1" />
+>>>>>>> acaf448dcdd2551e3c6b0c08951f04a749e26b35
       </list>
     </recent_temporary>
   </component>
@@ -483,6 +812,7 @@
       <workItem from="1558357154014" duration="1631000" />
       <workItem from="1558431725626" duration="5749000" />
       <workItem from="1560404587997" duration="7434000" />
+<<<<<<< HEAD
       <workItem from="1560412528882" duration="398000" />
       <workItem from="1562079381479" duration="605000" />
       <workItem from="1562250498343" duration="1603000" />
@@ -490,6 +820,15 @@
       <workItem from="1564195198865" duration="473000" />
       <workItem from="1564196035179" duration="189000" />
       <workItem from="1565178665444" duration="1053000" />
+=======
+      <workItem from="1560412528882" duration="2015000" />
+      <workItem from="1560923927285" duration="3298000" />
+      <workItem from="1560990574586" duration="617000" />
+      <workItem from="1561707147501" duration="7854000" />
+      <workItem from="1561941662981" duration="3310000" />
+      <workItem from="1562551390140" duration="12000" />
+      <workItem from="1562565624720" duration="7180000" />
+>>>>>>> acaf448dcdd2551e3c6b0c08951f04a749e26b35
     </task>
     <task id="LOCAL-00001" summary="内部类的创建">
       <created>1558358170364</created>
@@ -512,6 +851,7 @@
       <option name="project" value="LOCAL" />
       <updated>1558486153714</updated>
     </task>
+<<<<<<< HEAD
     <task id="LOCAL-00004" summary="内部类的创建">
       <created>1562250532288</created>
       <option name="number" value="00004" />
@@ -537,6 +877,49 @@
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2133637" />
+=======
+    <task id="LOCAL-00004" summary="添加maven">
+      <created>1560413030125</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1560413030126</updated>
+    </task>
+    <task id="LOCAL-00005" summary="添加maven">
+      <created>1560990983707</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1560990983708</updated>
+    </task>
+    <task id="LOCAL-00006" summary="添加websocket">
+      <created>1562577022675</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1562577022675</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="58710000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18123667" />
+>>>>>>> acaf448dcdd2551e3c6b0c08951f04a749e26b35
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -546,15 +929,24 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32899022" />
+<<<<<<< HEAD
       <window_info anchor="bottom" id="Run" order="2" weight="0.40651023" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49962035" visible="true" weight="0.38406828" />
+=======
+      <window_info anchor="bottom" id="Run" order="2" weight="0.40608034" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.4549403" />
+>>>>>>> acaf448dcdd2551e3c6b0c08951f04a749e26b35
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.329296" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32899022" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32899022" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.26818675" />
+<<<<<<< HEAD
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5003796" side_tool="true" visible="true" weight="0.38406828" />
+=======
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+>>>>>>> acaf448dcdd2551e3c6b0c08951f04a749e26b35
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32790446" />
       <window_info anchor="bottom" id="Java Enterprise" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -565,7 +957,11 @@
       <window_info anchor="right" id="Database" order="5" />
       <window_info anchor="right" id="Theme Preview" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
+<<<<<<< HEAD
       <window_info anchor="right" id="Maven Projects" order="8" visible="true" weight="0.29157177" />
+=======
+      <window_info anchor="right" id="Maven Projects" order="8" visible="true" weight="0.2675906" />
+>>>>>>> acaf448dcdd2551e3c6b0c08951f04a749e26b35
       <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.32995737" />
     </layout>
   </component>
@@ -579,6 +975,7 @@
     <MESSAGE value="线程同步" />
     <MESSAGE value="内部类" />
     <MESSAGE value="内部类的创建" />
+<<<<<<< HEAD
     <MESSAGE value="添加redis缓存实例" />
     <option name="LAST_COMMIT_MESSAGE" value="添加redis缓存实例" />
   </component>
@@ -636,6 +1033,13 @@
         </state>
       </provider>
     </entry>
+=======
+    <MESSAGE value="添加maven" />
+    <MESSAGE value="添加websocket" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加websocket" />
+  </component>
+  <component name="editorHistoryManager">
+>>>>>>> acaf448dcdd2551e3c6b0c08951f04a749e26b35
     <entry file="jar://$PROJECT_DIR$/src/lib/RXTXcomm.jar!/gnu/io/SerialPort.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-2181">
@@ -681,15 +1085,33 @@
     <entry file="file://$PROJECT_DIR$/src/edu/ajz/masterWang/RTTI/myProxy2/DynamicWorkProxy.java" />
     <entry file="file://$PROJECT_DIR$/src/edu/ajz/masterWang/utils/MasterUtil.java" />
     <entry file="file://$PROJECT_DIR$/src/edu/ajz/masterWang/RTTI/myProxy2/TestProxy.java" />
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/main/java/edu/ajz/masterWang/utils/HttpUtil.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="325">
           <caret line="20" column="29" selection-start-line="20" selection-start-column="29" selection-end-line="20" selection-end-column="29" />
+=======
+    <entry file="jar://D:/PGFile/JAVA/JDK/jdk8/src.zip!/java/net/Socket.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-522">
+          <caret line="1489" column="29" selection-start-line="1489" selection-start-column="29" selection-end-line="1489" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/ajz/masterWang/utils/HttpUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="775">
+          <caret line="38" column="60" selection-start-line="38" selection-start-column="12" selection-end-line="38" selection-end-column="60" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+>>>>>>> acaf448dcdd2551e3c6b0c08951f04a749e26b35
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/edu/ajz/masterWang/otherTest/Test1.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="700">
           <caret line="36" column="27" selection-start-line="36" selection-start-column="27" selection-end-line="36" selection-end-column="27" />
         </state>
@@ -701,11 +1123,112 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="297">
           <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+=======
+        <state relative-caret-position="750">
+          <caret line="38" column="26" selection-start-line="38" selection-start-column="26" selection-end-line="38" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/ajz/masterWang/thread/Account.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/ajz/masterWang/thread/Block.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="775">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/ajz/masterWang/tcp_ip/TCP_Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="23" column="55" selection-start-line="23" selection-start-column="55" selection-end-line="23" selection-end-column="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/ajz/masterWang/tcp_ip/PLC_TCP_Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="850">
+          <caret line="39" column="13" selection-start-line="39" selection-start-column="13" selection-end-line="39" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/PGFile/JAVA/JDK/jdk8/src.zip!/java/io/InputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2775">
+          <caret line="134" column="21" selection-start-line="134" selection-start-column="17" selection-end-line="134" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/ajz/masterWang/utils/MasterUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="23" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/java-websocket/Java-WebSocket/1.3.8/Java-WebSocket-1.3.8-sources.jar!/org/java_websocket/WebSocket.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="36" column="17" selection-start-line="36" selection-start-column="17" selection-end-line="36" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/java-websocket/Java-WebSocket/1.3.8/Java-WebSocket-1.3.8-sources.jar!/org/java_websocket/client/WebSocketClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="187" column="36" selection-start-line="187" selection-start-column="36" selection-end-line="187" selection-end-column="36" />
+          <folding>
+            <element signature="e#3958#3959#0" expanded="true" />
+            <element signature="e#3999#4000#0" expanded="true" />
+            <element signature="e#4424#4425#0" expanded="true" />
+            <element signature="e#4472#4473#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/java-websocket/Java-WebSocket/1.3.8/Java-WebSocket-1.3.8-sources.jar!/org/java_websocket/WebSocketListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1791">
+          <caret line="44" column="17" selection-start-line="44" selection-start-column="17" selection-end-line="44" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/java-websocket/Java-WebSocket/1.3.8/Java-WebSocket-1.3.8-sources.jar!/org/java_websocket/WebSocketImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="180" column="40" selection-start-line="180" selection-start-column="40" selection-end-line="180" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/PGFile/JAVA/JDK/jdk8/src.zip!/java/util/concurrent/LinkedBlockingQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4025">
+          <caret line="248" column="11" selection-start-line="248" selection-start-column="11" selection-end-line="248" selection-end-column="11" />
+          <folding>
+            <element signature="e#7388#7389#0" expanded="true" />
+            <element signature="e#7427#7428#0" expanded="true" />
+          </folding>
+>>>>>>> acaf448dcdd2551e3c6b0c08951f04a749e26b35
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/edu/ajz/masterWang/RTTI/reflect/a/A.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="243">
           <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
         </state>
@@ -767,13 +1290,85 @@
             <element signature="e#642#643#0" expanded="true" />
             <element signature="e#682#683#0" expanded="true" />
           </folding>
+=======
+        <state relative-caret-position="189">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/ajz/masterWang/websocket/WsManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="61" selection-end-line="147" />
+          <folding>
+            <element signature="e#0#3788#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/PGFile/JAVA/JDK/jdk8/src.zip!/java/net/SocksSocketImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="725" column="52" selection-start-line="725" selection-start-column="52" selection-end-line="725" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/PGFile/JAVA/JDK/jdk8/src.zip!/java/net/InetSocketAddress.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="214" column="17" selection-start-line="214" selection-start-column="17" selection-end-line="214" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="742">
+          <caret line="62" selection-start-line="62" selection-end-line="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/ajz/masterWang/websocket/SocketClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="98" column="91" selection-start-line="98" selection-start-column="66" selection-end-line="98" selection-end-column="91" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#820#821#0" expanded="true" />
+            <element signature="e#852#853#0" expanded="true" />
+            <element signature="e#1173#1174#0" expanded="true" />
+            <element signature="e#1238#1239#0" expanded="true" />
+            <element signature="e#2377#2378#0" expanded="true" />
+            <element signature="e#2413#2414#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/ajz/masterWang/RTTI/reflect/ShowMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+>>>>>>> acaf448dcdd2551e3c6b0c08951f04a749e26b35
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="27">
           <caret line="1" column="7" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
+=======
+        <state relative-caret-position="125">
+          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+>>>>>>> acaf448dcdd2551e3c6b0c08951f04a749e26b35
         </state>
       </provider>
     </entry>
@@ -854,5 +1449,8 @@
         </settings>
       </state>
     </states>
+  </component>
+  <component name="mavenExecuteGoalHistory">
+    <option value="" />
   </component>
 </project>
